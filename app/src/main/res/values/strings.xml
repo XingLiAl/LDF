@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Let Develop Free</string>
+    <string name="app_description">Bypass Xiaomi ADB install confirmation (which invokes com.miui.guardprovider) to make adb installation available with guardprovider disabled/hided.</string>
+</resources>
